@@ -5,13 +5,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-//        Person tian = new Person();
-//        tian.name = "田海粟";
-//        tian.age = 26;
-//
-//        Person jiang = new Person();
-//        jiang.name = "蒋一鸣";
-//        jiang.age = 24;
+        Person tian = new Person();
+        tian.name = "田海粟";
+        tian.age = 26;
+
+        Person jiang = new Person();
+        jiang.name = "蒋一鸣";
+        jiang.age = 24;
 
 
 
