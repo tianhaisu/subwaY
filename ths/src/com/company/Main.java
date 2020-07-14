@@ -2,16 +2,19 @@ package com.company;
 
 //import com.test.Person;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
-        Person tian = new Person();
-        tian.name = "田海粟";
-        tian.age = 26;
-
-        Person jiang = new Person();
-        jiang.name = "蒋一鸣";
-        jiang.age = 24;
+//        Person tian = new Person();
+//        tian.name = "田海粟";
+//        tian.age = 26;
+//
+//        Person jiang = new Person();
+//        jiang.name = "蒋一鸣";
+//        jiang.age = 24;
 
 
 
@@ -72,6 +75,13 @@ public class Main {
 //        person.study("人在学习");
 //        student.study();
 
+
+        String max = "100";
+        System.out.println(max);
+        max = "ths";
+        System.out.println(max);
+
+        List<String> list = new ArrayList<>();
     }
 }
 
